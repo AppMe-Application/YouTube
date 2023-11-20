@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1, Blink-Sendiri Lagi
+https://raw.githubusercontent.com/AppMe-Application/YouTube/main/Blink-SendiriLagi(Lirik).mp3
+#EXTINF:-1, Souljah-Tak Selalu
+https://raw.githubusercontent.com/AppMe-Application/YouTube/main/SoulJah-Tak Selalu.mp3
